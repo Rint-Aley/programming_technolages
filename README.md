@@ -15,3 +15,11 @@ This is a repository made for the 'programming technolages' subject in the HSE (
 1. Create project (any language allowed) with some mathematical operation.
 2. Make git flow specified in the task.
 3. Now I must to repeat some structure so I'll write some text here to cause merge conflict.
+4. Now I'm resolving conflict by merging it with commit with building info.
+
+### How to build the project:
+
+Just use command below in the project directory
+```
+cargo run
+```
