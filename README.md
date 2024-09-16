@@ -14,3 +14,10 @@ This is a repository made for the 'programming technolages' subject in the HSE (
 
 Create project (any language allowed) with some mathematical operation.
 Make git flow specified in the task.
+
+### How to build the project:
+
+Just use command below in the project directory
+```
+cargo run
+```
