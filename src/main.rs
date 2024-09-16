@@ -1,4 +1,6 @@
 use std::io;
+use programming_technolages::get_rectangle_area;
+
 fn main() {
     println!("Input sides of rectangle");
     let mut numbers = String::new();
@@ -8,8 +10,4 @@ fn main() {
         .map(|num: &str| num.parse().unwrap())
         .collect();
     println!("The area of rectangle is {}", get_rectangle_area(numbers[0], numbers[1]));
-}
-
-fn get_rectangle_area(a: i32, b: i32) -> i32 {
-    return a * b;
 }

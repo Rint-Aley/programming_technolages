@@ -16,7 +16,10 @@ This is a repository made for the 'programming technolages' subject in the HSE (
 2. Make git flow specified in the task.
 3. Now I must to repeat some structure so I'll write some text here to cause merge conflict.
 4. Now I'm resolving conflict by merging it with commit with building info.
-
+5. I'm doing the 10th step right now. ***A bit of information for our teacher:***
+    *Правильно ли я понял, что тут нужно просто произвести 2 рандомных изменеия в разных частях проекта, а после закоммитить их как одно изменение. Если нет, то прошу уведомить меня в тг @rint_aley: поправлю.*
+    p.s. да-да, я хочу получить максимум :)
+ 
 ### How to build the project:
 
 Just use command below in the project directory
