@@ -9,3 +9,8 @@ This is a repository made for the 'programming technolages' subject in the HSE (
 5. Create an issue on github
 6. Resolve merge conflict and finally merge them
 7. Mark issue as resolved 
+
+### New task
+
+Create project (any language allowed) with some mathematical operation.
+Make git flow specified in the task.
