@@ -19,7 +19,7 @@ This is a repository made for the 'programming technolages' subject in the HSE (
 5. I'm doing the 10th step right now. ***A bit of information for our teacher:***
     *Правильно ли я понял, что тут нужно просто произвести 2 рандомных изменеия в разных частях проекта, а после закоммитить их как одно изменение. Если нет, то прошу уведомить меня в тг @rint_aley: поправлю.*
     p.s. да-да, я хочу получить максимум :)
-6. The last step is pretty treaky. So I'll just write here some the structure I'm working on. Now I'm in C2. Create server branch and C3 & C4 commits. Then switching back to the master branch and making C5 and C6 commits. Then, move back to C3, create client branch and make C8 and C9 commits. Btw, I don't know why C7 is missing. I'm just following task.
+6. The last step is pretty treaky. So I'll just write here some the structure I'm working on. Now I'm in C2. Create server branch and C3 & C4 commits. Then switching back to the master branch and making C5 and C6 commits. Then, move back to C3, create client branch and make C8 and C9 commits. Btw, I don't know why C7 is missing. I'm just following task. And finally, switch back to server branch and make C10 commit.
 
 ### How to build the project:
 
