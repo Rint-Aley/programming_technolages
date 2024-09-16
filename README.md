@@ -12,5 +12,6 @@ This is a repository made for the 'programming technolages' subject in the HSE (
 
 ### New task
 
-Create project (any language allowed) with some mathematical operation.
-Make git flow specified in the task.
+1. Create project (any language allowed) with some mathematical operation.
+2. Make git flow specified in the task.
+3. Now I must to repeat some structure so I'll write some text here to cause merge conflict.
